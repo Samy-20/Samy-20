@@ -2,7 +2,7 @@
 👨‍💻 Python Developer | Full Stack Enthusiast<br><br>I am a passionate Python Developer with a strong focus on building scalable and efficient applications. I enjoy developing full-stack solutions and continuously improving my skills across backend and frontend technologies.<br><br> 🚀 About Me<br><br>* 💡 Skilled in Python programming with a focus on clean, optimized, and maintainable code<br>* 🌐 Experienced in building web applications using Django and modern frontend tools<br>* ⚡ Passionate about developing end-to-end solutions from backend to user interface<br>* 📈 Continuously learning new technologies and improving development practices<br><br> 🛠️ Technical Skills<br><br>* **Languages:** Python, JavaScript<br>* **Frameworks & Libraries:** Django, React.js, NumPy<br>* **Core Concepts:** OOP, REST APIs, Functional Programming, Error Handling<br>* **Tools & Platforms:** Git, GitHub, VS Code<br><br> 🧩 What I Do<br><br>* Build full-stack web applications using Django and React.js<br>* Develop RESTful APIs and backend services<br>* Work with data processing and numerical computations using NumPy<br>* Write clean, efficient, and scalable code following best practices<br><br> 📌 Goals<br><br>* Become a highly skilled full-stack developer<br>* Build scalable and production-ready web applications<br>* Contribute to open-source projects<br><br>---<br><br>⭐ *Always learning, always building, always improving.*<br>
 
 🌐 Socials:  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>](https://www.linkedin.com/in/sahilzagade20)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/sahilzagade20)
 
 💻 Tech Stack:
 <br>
