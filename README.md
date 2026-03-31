@@ -3,7 +3,7 @@
 
 
 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s) 
+[![linkedin](https://img.shields.io/badge/Linkden-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s) 
 
 💻 Tech Stack:
 <br>
